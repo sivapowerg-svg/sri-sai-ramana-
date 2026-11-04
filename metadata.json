@@ -1,0 +1,6 @@
+{
+  "name": "Sri Sai Ramana Hotel",
+  "description": "Authentic South Indian vegetarian restaurant in Gudur, Andhra Pradesh. Traditional tiffins, authentic meals, online ordering via Swiggy & Zomato, and train passenger food service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
